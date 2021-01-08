@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Làm việc",
+        "value": 123,
+        "unit": "giờ"
+    },
+    {
+        "id": "2",
+        "name": "Ngày nghỉ",
+        "value": 50,
+        "unit": "giờ"
+    },
+    {
+        "id": "3",
+        "name": "Tăng ca",
+        "value": 24,
+        "unit": "giờ"
+    },
+    {
+        "id": "4",
+        "name": "Đi trễ",
+        "value": 10,
+        "unit": "giờ"
+    },
+    {
+        "id": "5",
+        "name": "Về sớm",
+        "value": 10,
+        "unit": "giờ"
+    }
+]
